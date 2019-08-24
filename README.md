@@ -1,5 +1,5 @@
 <p>
-  <img src="./src/img/logo.png" with="200px" alt="Front-end Angola">
+  <img src="./src/img/logo.png" width="400px" alt="Front-end Angola">
 </p>
 
 <h1 align="center">Website</h1>
